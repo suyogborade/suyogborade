@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **suyog142000@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1Q5Qs7rN0a9BP3zCCpCF6fhybz2r-Qd7J/view?usp=sharing](https://drive.google.com/file/d/1Q5Qs7rN0a9BP3zCCpCF6fhybz2r-Qd7J/view?usp=sharing)
+- 📄 Know about my experiences [[https://drive.google.com/file/d/1Q5Qs7rN0a9BP3zCCpCF6fhybz2r-Qd7J/view?usp=sharing](https://drive.google.com/file/d/1pLMtfOIgr3pla3tCRsQcmWPKPaXIg96C/view?usp=sharing)
 
 - ⚡ Fun fact **I am QA**
 
